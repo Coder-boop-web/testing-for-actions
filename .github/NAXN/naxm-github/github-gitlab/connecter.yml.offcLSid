@@ -1,0 +1,8 @@
+webhooks-enabled~~yes['true']
+using: "gitlab-settings"
+"
+./\*github*/*~0*\projects;wiki;security;insights;pull requests;code;actions;settings/*\|*"in_settings*\**;general;integrations;webhooks;access tokens; epository;ci/cd;packages and registries;monitor;usage quotas
+./\*gitlab*/*~2*\manage;code;build;secure;deploy;operate;monitor;analyze;settings/*\|*"in_settings*\**;general;integrations;webhooks;access tokens; epository;ci/cd;packages and registries;monitor;usage quotas
+"
+GITHUBFCCID:'XGV0KgF0p5KXIqF83L2pqf7f9avIeajf5MH0CRWZJzsAvbyXoS1jvhMk7fzhhj3fRODCHqEZcVhPvMpZggutwdvt1xiaUn4MPqWWdhTGiU5lOmDfyJMYd3u8k4VLjZLFoDhB1T3hT3eKKoTI'
+GITLABFCCID:'OJMkJG17Jjgt+0/v94/w5Z1kbkO8ugov9+KtB7hbZxcHvWyCpa9hjKqXeMUGzPFcgp6ZPQKkvRl3aoedef1hlrKykkSx0pvlH0aPrp+KGc/pKcYga4E2M81tIg8JhHT/hUpS+NVU4ceA9Ky2'
