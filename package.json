@@ -1,35 +1,15 @@
 {
-  "name": "simpl.info",
+  "name": "my-npm-package",
   "version": "1.0.0",
-  "description": "Simplest possible examples of HTML, CSS and JavaScript",
-  "main": "Gruntfile.js",
+  "description": "Packages to test javascript",
+  "main": "src/index.js",
   "scripts": {
-    "test": "grunt --verbose"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/samdutton/webrtc.git"
-  },
-  "keywords": [
-    "webrtc",
-    "demos",
-    "samples",
-    "javascript"
-  ],
-  "author": "Sam Dutton",
-  "license": "BSD-3-Clause",
-  "bugs": {
-    "url": "https://github.com/samdutton/simpl/issues"
-  },
-  "homepage": "https://github.com/samdutton/simpl",
+  "keywords": [],
+  "author": "Parul",
+  "license": "MIT",
   "dependencies": {
-    "eslint": "latest",
-    "grunt": "latest",
-    "grunt-cli": "latest",
-    "grunt-eslint": "latest",
-    "grunt-stylelint": "latest",
-    "minimatch": "latest",
-    "stylelint": "latest",
-    "stylelint-config-standard": "latest"
+    "my-npm-package": "^0.0.1"
   }
 }
